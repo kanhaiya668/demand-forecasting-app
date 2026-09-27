@@ -1,5 +1,8 @@
 # 📈 Store Demand Forecasting System
 
+
+🔗 **[Live Demo](https://demand-forecasting-app-xyzzz123.streamlit.app/)**
+
 An end-to-end machine learning system that forecasts daily retail sales for 1,115 stores up to 6 weeks in advance, built on the Kaggle Rossmann Store Sales dataset. Includes feature engineering, a LightGBM forecasting model, and an interactive Streamlit dashboard for store-level, multi-day sales predictions.
 
 ## 🎯 Problem Statement
